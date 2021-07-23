@@ -12,6 +12,7 @@ const connection = mysql.createConnection({
     password: "password",
 });
 
+
 // start program; prompts, then switch cases manage which function is called
 function init() {
     inquirer
@@ -26,7 +27,7 @@ function init() {
                 "Remove Employee",
                 "Update Employee Role",
                 "Add Role",
-                "End"
+                "CLose Application"
             ]
         })
 

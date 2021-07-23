@@ -28,6 +28,6 @@
   N/A
 
   # Contact Information 
-  * GitHub Username: HibiAdlei
+  * GitHub Username: HibiAdelei
   * If you need to reach me for any reason, please email me.
   * Contact Email: lilyadelame@gmail.com
